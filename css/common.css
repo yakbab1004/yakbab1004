@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding: 0;
+	margin: 0;
+	background-color: #f9f6e8;
+	width: 100%;
+}
+
+#header{
+	text-align: center;
+}
+#main{
+	margin-top: 106px;
+	margin-bottom: 68px;
+	text-align: center;
+}
+#event_1{
+	text-align: center;
+}
+#event_2{
+	text-align: center;
+}
+#seperate{
+	text-align:center;
+}
+#footer{
+	text-align: center;
+}
